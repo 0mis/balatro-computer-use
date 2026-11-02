@@ -1,0 +1,27 @@
+{
+  "game": "Balatro",
+  "session_dates": ["2026-11-01", "2026-11-02"],
+  "timezone": "America/New_York",
+  "seed": "TUTORIAL",
+  "deck": "Red Deck",
+  "outcome": "win",
+  "completed_ante": 8,
+  "displayed_ante_after_win": 9,
+  "rounds_completed": 24,
+  "final_boss": "Crimson Heart",
+  "final_boss_round_score": 135026,
+  "best_single_hand": 67018,
+  "most_played_hand": {"name": "Two Pair", "count": 23},
+  "cards_played": 157,
+  "cards_discarded": 138,
+  "cards_purchased": 23,
+  "times_rerolled": 10,
+  "new_discoveries": 38,
+  "gameplay_decisions": "Assistant decisions from visible game screenshots, sent through computer-use tools",
+  "evidence": "assets/win.jpg",
+  "limitations": [
+    "This was the game's tutorial seed.",
+    "The full recording includes setup and observation delays.",
+    "This session does not establish an independently benchmarked gameplay or model speed."
+  ]
+}

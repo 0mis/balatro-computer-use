@@ -1,0 +1,19 @@
+{
+  "purpose": "Reference values transcribed from the session's OBS configuration; this is not an OBS scene-import file",
+  "scene": "Balatro Only",
+  "source": {
+    "name": "Balatro Game and Audio",
+    "type": "game_capture",
+    "capture_mode": "window",
+    "window_match": "Balatro:SDL_app:Balatro.exe",
+    "capture_audio": true,
+    "capture_cursor": false
+  },
+  "video": {"width": 1280, "height": 720, "fps": 30},
+  "audio": {"sample_rate": 48000, "channels": 2, "codec": "AAC", "scope": "Balatro application audio"},
+  "global_desktop_audio": false,
+  "microphone_audio": false,
+  "recording": {"container": "MKV", "encoder": "NVENC H.264", "obs_quality": "Small", "preset": "p1", "duration_limit": null},
+  "game_display_mode_during_later_play": "Windowed",
+  "game_animation_speed_during_later_play": "4x"
+}

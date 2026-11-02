@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "release_tag": "recording-v1",
+  "release_page": "https://github.com/0mis/balatro-computer-use/releases/tag/recording-v1",
+  "capture": {
+    "video": "Balatro game capture",
+    "audio": "Balatro application audio",
+    "desktop_audio": false,
+    "microphone_audio": false
+  },
+  "full_quality": {
+    "name": "Balatro-winning-run-720p.mp4",
+    "bytes": 3730677915,
+    "sha256": "1e391010b10107097e87c742a886c1a03298785df6edad47ff2741feef09fda0",
+    "duration_seconds": 9188.366,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_channels": 2,
+    "parts": [
+      {
+        "name": "Balatro-winning-run-720p.mp4.part01",
+        "bytes": 1900000000,
+        "sha256": "d3d44809f5bf58a21b7d5a2ef25b9c53b935bb1a3fb80e6e9213caf1a9900d38"
+      },
+      {
+        "name": "Balatro-winning-run-720p.mp4.part02",
+        "bytes": 1830677915,
+        "sha256": "f0b3c1a80a9890e455c9f7b162d9c6614e13a150f3e89adac7c5be6d8edf96a4"
+      }
+    ]
+  },
+  "phone": {
+    "name": "Balatro-winning-run-phone.mp4",
+    "bytes": 459909605,
+    "sha256": "52c4f202401501f1f88dab202a5480d7376f833a6d0d44ef330a89bfd8e61ec9",
+    "duration_seconds": 9188.4,
+    "width": 854,
+    "height": 480,
+    "fps": 15,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_channels": 2
+  }
+}
